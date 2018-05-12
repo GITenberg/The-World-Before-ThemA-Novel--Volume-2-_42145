@@ -1,0 +1,31 @@
+_repo: The-World-Before-ThemA-Novel--Volume-2-_42145
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42145-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Moodie, Susanna
+    aliases:
+    - Moodie, Susannah Strickland
+    - Strickland, Susannah
+    - Strickland, S. (Susanna)
+    birthdate: 1803
+    deathdate: 1885
+    gutenberg_agent_id: '2656'
+    url: http://www.gutenberg.org/2009/agents/2656
+    wikipedia: http://en.wikipedia.org/wiki/Susanna_Moodie
+description: ''
+gutenberg_issued: '2013-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42145'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: 'The World Before Them: A Novel. Volume 2 (of 3)'
+url: http://www.gutenberg.org/ebooks/42145
